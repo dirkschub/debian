@@ -26,7 +26,7 @@
 
 
 git config --global pull.rebase false
-git config --global user.name "dirkschub@gmx.de"
+git config --global user.name "dirkschub"
 git config --global user.email "dirkschub@gmx.de"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
