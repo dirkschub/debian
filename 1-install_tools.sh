@@ -37,7 +37,7 @@ sh tools/install_ranger.sh
 
 # mplayer
 
-sh tools/install_mpv.sh
+sh tools/install_mplayer.sh
 
 ###############################################################################################
 
